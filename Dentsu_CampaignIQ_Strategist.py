@@ -240,7 +240,7 @@ section[data-testid="stSidebar"] .stButton > button:hover {
 }
 .stFileUploader > div { background: var(--bg-card) !important; border: 1px dashed rgba(255,255,255,0.1) !important; border-radius: var(--radius-sm) !important; }
 .stChatInput > div { background: var(--bg-card) !important; border: 1px solid var(--border) !important; border-radius: var(--radius-md) !important; }
-.stChatInput textarea { color: var(--text-100) !important; font-family: 'Inter', sans-serif !important; }
+.stChatInput textarea { color: black !important; font-family: 'Inter', sans-serif !important; }
 .stSpinner > div > div { border-top-color: var(--accent) !important; }
 .stTabs [data-baseweb="tab-list"] { gap: 0.5rem; border-bottom: 1px solid var(--border); }
 .stTabs [data-baseweb="tab"] {
