@@ -1146,7 +1146,7 @@ def render_sidebar():
         if st.button("Sign out", use_container_width=True, key="logout"):
             for k in list(st.session_state.keys()): del st.session_state[k]
             st.rerun()
-        st.markdown("<p style='color:var(--text-400);font-size:0.62rem;text-align:center;padding-top:0.8rem;'>Dentsu Smart Buddy v5.1</p>", unsafe_allow_html=True)
+        st.markdown("<p style='color:var(--text-400);font-size:0.62rem;text-align:center;padding-top:0.8rem;'>Dentsu CampaignIQ_Strategiest v1</p>", unsafe_allow_html=True)
 
 
 # ═══════════════════════════════════════════════
